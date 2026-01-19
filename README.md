@@ -38,7 +38,6 @@ The code is structured using an OOP modular design, where each responsibility is
 - `DetectionLogger`: logs to SQLite and saves annotated frames (images) on disk.
 
 ## Project Structure
-```text
 drone-detection-system/
   README.md
   .gitignore
